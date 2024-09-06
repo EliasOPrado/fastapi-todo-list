@@ -57,6 +57,3 @@ To check the tests just go to `test/`.
 ### Deployment
 
 This service was deployed using `render.com` using docker and a postgres database created on `AWS RDS`.
-
-You can check the deployed application here:
-- https://fastapi-todo-list-1.onrender.com/docs
